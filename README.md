@@ -1,4 +1,4 @@
-This is a simple GUI that lets you create Beat Saber playlists based on your and your friends' (or foes'?) scores.
+Simple program for creating Beat Saber playlists based on your and your friends' (or foes'?) scores.
 
 
 Look up your Scoresaber ID, put it in the SSID field and hit OK.
