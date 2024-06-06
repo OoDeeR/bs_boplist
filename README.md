@@ -11,4 +11,10 @@ Specify a star range and the number of entries that your playlist should have.
 
 Specify whether you want to include maps that you don't have a score on, but the other person does.
 
+Select a thumbnail picture.
+
+Create your playlist and put it in your Playlists folder.
+
+Start bopping!
+
 <img width="464" alt="boplist" src="https://github.com/OoDeeR/bs_boplist/assets/23144450/975981b8-7e55-4e12-9bc4-e6885a861baa">
